@@ -37,3 +37,19 @@ int main()
   }
   return 0;
 }
+
+// Example Walkthrough
+
+// Array: {29, 10, 14, 37, 13}
+
+// i=0 → find min in [29,10,14,37,13] → 10 → swap with 29
+// → {10, 29, 14, 37, 13}
+
+// i=1 → find min in [29,14,37,13] → 13 → swap with 29
+// → {10, 13, 14, 37, 29}
+
+// i=2 → find min in [14,37,29] → 14 → already in place
+// → {10, 13, 14, 37, 29}
+
+// i=3 → find min in [37,29] → 29 → swap with 37
+// → {10, 13, 14, 29, 37}

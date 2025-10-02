@@ -54,3 +54,23 @@ int main()
     cout << arr[i] << " ";
   return 0;
 }
+
+// 🔹 Example Walkthrough
+// Array = [5, 3, 8, 4, 2]
+// Step 1: Divide
+// Split into halves → [5, 3, 8] and [4, 2]
+// Step 2: Recursively sort each half
+// Left part [5, 3, 8] → split → [5, 3] and [8]
+// [5, 3] → split → [5] and [3]
+// Merge [5] and [3] → [3, 5]
+// Now [3, 5, 8]
+// Right part [4, 2] → split → [4] and [2]
+// Merge [4] and [2] → [2, 4]
+// Step 3: Merge both halves
+// Merge [3, 5, 8] and [2, 4]
+// Compare step by step:
+// 2 < 3 → [2]
+// 3 < 4 → [2, 3]
+// 4 < 5 → [2, 3, 4]
+// Append leftovers [5, 8] → [2, 3, 4, 5, 8]
+// ✅ Final Sorted Array = [2, 3, 4, 5, 8]

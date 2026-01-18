@@ -7,10 +7,10 @@ int binarySearch(int arr[], int n, int X)
 
   while (low <= high)
   {
-    int mid = low + (high - low) / 2; // safe mid
+    int mid = low + (high - low) / 2;
 
     if (arr[mid] == X)
-      return mid; // found
+      return mid;
 
     else if (arr[mid] < X)
       low = mid + 1;
@@ -19,7 +19,7 @@ int binarySearch(int arr[], int n, int X)
       high = mid - 1;
   }
 
-  return -1; // not found
+  return -1;
 }
 
 int main()

@@ -1,4 +1,4 @@
-// where X starts
+// finding last occurence+1 (where X ends+1)
 #include <iostream>
 using namespace std;
 
@@ -11,7 +11,7 @@ int lowerbound(int arr[], int n, int x)
   {
     int mid = low + (high - low) / 2;
 
-    if (arr[mid] >= x)
+    if (arr[mid] > x)
     {
       ans = mid;
       high = mid - 1;
@@ -34,9 +34,9 @@ int main()
   for (int i = 0; i < n; i++)
     cin >> arr[i];
 
-  cout << "Enter element to be inserted: ";
+  cout << "X: ";
   cin >> X;
 
   int index = lowerbound(arr, n, X);
-  cout << X << " should be at index " << index;
+  cout << X << " last occurs at index " << index;
 }

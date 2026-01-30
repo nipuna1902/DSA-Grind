@@ -38,5 +38,5 @@ int main()
   cin >> X;
 
   int index = lowerbound(arr, n, X);
-  cout << "Lowerbound " << index;
+  cout << X << " should be at index " << index;
 }

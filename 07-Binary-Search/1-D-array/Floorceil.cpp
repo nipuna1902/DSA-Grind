@@ -5,7 +5,6 @@
 #include <iostream>
 using namespace std;
 
-// Function to find Floor (largest element <= X)
 int findFloor(int arr[], int n, int X)
 {
   int low = 0, high = n - 1;
@@ -17,8 +16,8 @@ int findFloor(int arr[], int n, int X)
 
     if (arr[mid] <= X)
     {
-      ans = arr[mid]; // possible floor
-      low = mid + 1;  // try to find bigger <= X
+      ans = arr[mid];
+      low = mid + 1;
     }
     else
     {

@@ -9,3 +9,19 @@ I created this repo to **track my learning, store solutions, and stay consistent
 - Solve **300+ problems** in 2025  
 - Practice DSA for at least **30 minutes daily**  
 - Master all major topics before 3rd year
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
+## Matrix
+|  |
+| ------- |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
+## Simulation
+|  |
+| ------- |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
+<!---LeetCode Topics End-->

@@ -15,10 +15,12 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
@@ -31,6 +33,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -40,4 +43,12 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

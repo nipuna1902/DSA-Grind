@@ -29,19 +29,23 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 ## String
 |  |

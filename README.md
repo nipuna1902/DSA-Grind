@@ -62,4 +62,12 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

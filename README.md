@@ -16,11 +16,13 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
@@ -70,4 +72,12 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

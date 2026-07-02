@@ -15,6 +15,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
@@ -102,6 +104,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
@@ -109,6 +112,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -118,4 +122,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

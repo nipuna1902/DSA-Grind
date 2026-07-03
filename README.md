@@ -18,6 +18,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
@@ -31,6 +32,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
@@ -97,6 +99,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
@@ -107,6 +110,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
@@ -115,6 +119,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |

@@ -137,6 +137,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -144,5 +145,6 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

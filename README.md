@@ -141,4 +141,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

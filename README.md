@@ -15,6 +15,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
@@ -78,6 +79,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |

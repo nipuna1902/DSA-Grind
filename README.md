@@ -26,6 +26,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/nipuna1902/DSA-Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
@@ -86,6 +87,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -157,5 +160,6 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->

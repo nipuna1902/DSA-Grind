@@ -130,6 +130,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/nipuna1902/DSA-Grind/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/nipuna1902/DSA-Grind/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
@@ -162,6 +163,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,6 +174,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |

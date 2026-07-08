@@ -27,6 +27,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/nipuna1902/DSA-Grind/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +99,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/nipuna1902/DSA-Grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -176,6 +178,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0003-longest-substring-without-repeating-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/nipuna1902/DSA-Grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipuna1902/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |

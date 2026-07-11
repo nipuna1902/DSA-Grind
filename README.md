@@ -17,6 +17,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0001-two-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
@@ -170,6 +171,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
@@ -177,6 +179,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |

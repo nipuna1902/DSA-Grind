@@ -234,4 +234,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0700-search-in-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

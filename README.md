@@ -63,6 +63,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/nipuna1902/DSA-Grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -78,6 +79,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/nipuna1902/DSA-Grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -91,6 +93,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
@@ -104,6 +107,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/nipuna1902/DSA-Grind/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -238,6 +242,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |

@@ -70,6 +70,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -86,6 +87,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0617-merge-two-binary-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -99,6 +101,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -116,6 +119,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 ## String
@@ -253,6 +257,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Enumeration
 |  |
 | ------- |

@@ -58,6 +58,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -77,6 +78,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
@@ -107,6 +109,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -255,6 +258,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |

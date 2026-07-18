@@ -69,6 +69,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
@@ -94,6 +95,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -130,6 +132,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
@@ -289,6 +292,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0700-search-in-a-binary-search-tree) |

@@ -185,6 +185,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |

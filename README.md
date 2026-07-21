@@ -18,6 +18,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0001-two-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/nipuna1902/DSA-Grind/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
@@ -208,6 +209,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nipuna1902/DSA-Grind/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |

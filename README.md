@@ -166,6 +166,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0003-longest-substring-without-repeating-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipuna1902/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -176,6 +177,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
+| [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -363,4 +365,5 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->

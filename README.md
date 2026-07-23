@@ -175,6 +175,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/nipuna1902/DSA-Grind/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |

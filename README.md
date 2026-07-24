@@ -375,6 +375,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0191-number-of-1-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/0461-hamming-distance) |
 | [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nipuna1902/DSA-Grind/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

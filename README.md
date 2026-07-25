@@ -48,6 +48,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2104-sum-of-subarray-ranges](https://github.com/nipuna1902/DSA-Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -199,6 +200,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Math
@@ -337,6 +339,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipuna1902/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -387,5 +390,10 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0476-number-complement](https://github.com/nipuna1902/DSA-Grind/tree/master/0476-number-complement) |
 | [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nipuna1902/DSA-Grind/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->

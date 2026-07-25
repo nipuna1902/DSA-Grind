@@ -202,6 +202,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nipuna1902/DSA-Grind/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
@@ -374,6 +375,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nipuna1902/DSA-Grind/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0191-number-of-1-bits) |

@@ -31,6 +31,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
@@ -210,6 +211,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |
@@ -287,6 +289,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/3536-maximum-product-of-two-digits) |

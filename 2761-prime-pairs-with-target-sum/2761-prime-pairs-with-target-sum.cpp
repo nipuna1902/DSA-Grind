@@ -1,21 +1,23 @@
 class Solution {
 public:
-    bool primeCheck(int n) {
-        if (n < 2)
-            return false;
-        for (int i = 2; i * i <= n; i++) {
-            if (n % i == 0)
-                return false;
-        }
-        return true;
-    }
     vector<vector<int>> findPrimePairs(int n) {
         vector<vector<int>> ans;
+        vector<bool> prime(n + 1, true);
+        if (n < 2)
+            return ans;
+        prime[0] = prime[1] = false;
+        // Sieve of Eratosthenes
+        for (int i = 2; i * i <= n; i++) {
+            if (prime[i]) {
+                for (int j = i * i; j <= n; j += i) {
+                    prime[j] = false;
+                }
+            }
+        }
+        // Find prime pairs
         for (int i = 2; i <= n / 2; i++) {
-            int check = n - i;
-
-            if (primeCheck(i) && primeCheck(check)) {
-                ans.push_back({i, check});
+            if (prime[i] && prime[n - i]) {
+                ans.push_back({i, n - i});
             }
         }
         return ans;

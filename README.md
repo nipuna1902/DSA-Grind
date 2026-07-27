@@ -50,6 +50,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2104-sum-of-subarray-ranges](https://github.com/nipuna1902/DSA-Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
+| [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -223,6 +224,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [3280-convert-date-to-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/3280-convert-date-to-binary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/3536-maximum-product-of-two-digits) |
@@ -368,12 +370,14 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/1291-sequential-digits) |
+| [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nipuna1902/DSA-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |

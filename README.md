@@ -24,6 +24,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
@@ -213,6 +214,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0029-divide-two-integers](https://github.com/nipuna1902/DSA-Grind/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
@@ -364,11 +366,13 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nipuna1902/DSA-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |

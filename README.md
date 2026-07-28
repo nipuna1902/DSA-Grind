@@ -183,6 +183,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2211-count-collisions-on-a-road](https://github.com/nipuna1902/DSA-Grind/tree/master/2211-count-collisions-on-a-road) |
 | [3280-convert-date-to-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/3280-convert-date-to-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,6 +304,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -418,4 +420,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

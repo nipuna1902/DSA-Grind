@@ -20,6 +20,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/nipuna1902/DSA-Grind/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/nipuna1902/DSA-Grind/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
@@ -187,6 +188,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nipuna1902/DSA-Grind/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/nipuna1902/DSA-Grind/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |

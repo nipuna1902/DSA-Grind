@@ -89,6 +89,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -153,6 +154,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -267,6 +269,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
@@ -371,6 +374,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0450-delete-node-in-a-bst) |
@@ -434,4 +438,12 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

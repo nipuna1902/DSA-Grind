@@ -187,6 +187,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipuna1902/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-count-collisions-on-a-road](https://github.com/nipuna1902/DSA-Grind/tree/master/2211-count-collisions-on-a-road) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/3280-convert-date-to-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -236,6 +237,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nipuna1902/DSA-Grind/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3280-convert-date-to-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/3280-convert-date-to-binary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -305,6 +307,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Sorting
 |  |

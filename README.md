@@ -190,6 +190,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipuna1902/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-count-collisions-on-a-road](https://github.com/nipuna1902/DSA-Grind/tree/master/2211-count-collisions-on-a-road) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3280-convert-date-to-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/3280-convert-date-to-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -225,6 +226,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Math
@@ -314,6 +316,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Sorting
 |  |
@@ -325,6 +328,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -417,6 +421,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
 |  |

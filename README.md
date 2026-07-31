@@ -19,6 +19,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nipuna1902/DSA-Grind/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nipuna1902/DSA-Grind/tree/master/0046-permutations) |
@@ -262,6 +263,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nipuna1902/DSA-Grind/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |

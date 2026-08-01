@@ -215,6 +215,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0003-longest-substring-without-repeating-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
@@ -238,6 +239,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/nipuna1902/DSA-Grind/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
@@ -349,6 +351,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |

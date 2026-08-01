@@ -78,6 +78,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
 | [2211-count-collisions-on-a-road](https://github.com/nipuna1902/DSA-Grind/tree/master/2211-count-collisions-on-a-road) |
@@ -242,6 +243,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
@@ -418,6 +420,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nipuna1902/DSA-Grind/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |

@@ -54,6 +54,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nipuna1902/DSA-Grind/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/nipuna1902/DSA-Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
@@ -83,6 +84,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0258-add-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nipuna1902/DSA-Grind/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/nipuna1902/DSA-Grind/tree/master/2211-count-collisions-on-a-road) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -482,4 +484,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/nipuna1902/DSA-Grind/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

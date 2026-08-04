@@ -94,6 +94,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
@@ -159,6 +160,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0101-symmetric-tree) |
@@ -247,6 +249,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/nipuna1902/DSA-Grind/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
@@ -324,6 +327,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
@@ -407,6 +411,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |

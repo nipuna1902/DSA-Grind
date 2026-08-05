@@ -517,5 +517,6 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/nipuna1902/DSA-Grind/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nipuna1902/DSA-Grind/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

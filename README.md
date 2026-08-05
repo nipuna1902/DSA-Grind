@@ -514,4 +514,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nipuna1902/DSA-Grind/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

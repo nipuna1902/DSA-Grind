@@ -547,6 +547,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1068-product-sales-analysis-i](https://github.com/nipuna1902/DSA-Grind/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/nipuna1902/DSA-Grind/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nipuna1902/DSA-Grind/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nipuna1902/DSA-Grind/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nipuna1902/DSA-Grind/tree/master/1757-recyclable-and-low-fat-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |

@@ -90,6 +90,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nipuna1902/DSA-Grind/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
@@ -218,6 +219,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0003-longest-substring-without-repeating-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/nipuna1902/DSA-Grind/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
@@ -275,6 +277,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/nipuna1902/DSA-Grind/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/nipuna1902/DSA-Grind/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |

@@ -68,6 +68,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nipuna1902/DSA-Grind/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -274,6 +275,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -391,6 +393,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/3536-maximum-product-of-two-digits) |

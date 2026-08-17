@@ -54,6 +54,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nipuna1902/DSA-Grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
@@ -575,4 +576,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nipuna1902/DSA-Grind/tree/master/0141-linked-list-cycle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->

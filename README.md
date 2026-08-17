@@ -34,6 +34,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/nipuna1902/DSA-Grind/tree/master/0463-island-perimeter) |
@@ -340,6 +341,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0190-reverse-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -396,6 +398,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
@@ -579,5 +582,10 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

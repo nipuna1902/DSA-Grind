@@ -37,6 +37,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/nipuna1902/DSA-Grind/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
@@ -267,6 +268,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0141-linked-list-cycle](https://github.com/nipuna1902/DSA-Grind/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
@@ -345,6 +347,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0191-number-of-1-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -401,6 +404,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0047-permutations-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
@@ -506,6 +510,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -585,9 +590,15 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

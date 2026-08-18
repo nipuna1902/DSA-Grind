@@ -77,6 +77,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -284,6 +285,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipuna1902/DSA-Grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/3731-find-missing-elements) |
 ## Math
 |  |

@@ -42,6 +42,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
@@ -409,6 +410,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
@@ -602,6 +604,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipuna1902/DSA-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |

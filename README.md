@@ -46,6 +46,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
@@ -287,6 +288,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/nipuna1902/DSA-Grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
@@ -406,6 +408,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/nipuna1902/DSA-Grind/tree/master/1323-maximum-69-number) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
@@ -424,6 +427,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
@@ -535,6 +539,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -621,6 +626,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipuna1902/DSA-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |

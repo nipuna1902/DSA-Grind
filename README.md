@@ -76,6 +76,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nipuna1902/DSA-Grind/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -110,6 +111,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nipuna1902/DSA-Grind/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/nipuna1902/DSA-Grind/tree/master/2211-count-collisions-on-a-road) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |

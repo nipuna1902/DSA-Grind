@@ -25,6 +25,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nipuna1902/DSA-Grind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nipuna1902/DSA-Grind/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
@@ -240,6 +241,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0014-longest-common-prefix](https://github.com/nipuna1902/DSA-Grind/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/nipuna1902/DSA-Grind/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/nipuna1902/DSA-Grind/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
@@ -274,6 +276,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0003-longest-substring-without-repeating-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/nipuna1902/DSA-Grind/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nipuna1902/DSA-Grind/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
@@ -414,6 +417,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0016-3sum-closest](https://github.com/nipuna1902/DSA-Grind/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nipuna1902/DSA-Grind/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |

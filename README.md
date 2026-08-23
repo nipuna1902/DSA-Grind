@@ -599,6 +599,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipuna1902/DSA-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1845-seat-reservation-manager](https://github.com/nipuna1902/DSA-Grind/tree/master/1845-seat-reservation-manager) |
 ## Iterator
 |  |
 | ------- |
@@ -657,6 +658,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1405-longest-happy-string](https://github.com/nipuna1902/DSA-Grind/tree/master/1405-longest-happy-string) |
+| [1845-seat-reservation-manager](https://github.com/nipuna1902/DSA-Grind/tree/master/1845-seat-reservation-manager) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nipuna1902/DSA-Grind/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |

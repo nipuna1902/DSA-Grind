@@ -28,6 +28,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0049-group-anagrams](https://github.com/nipuna1902/DSA-Grind/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nipuna1902/DSA-Grind/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/nipuna1902/DSA-Grind/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -321,6 +322,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/nipuna1902/DSA-Grind/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nipuna1902/DSA-Grind/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/nipuna1902/DSA-Grind/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |

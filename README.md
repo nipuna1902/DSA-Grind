@@ -356,6 +356,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
@@ -389,6 +390,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
@@ -475,6 +477,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0061-rotate-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/nipuna1902/DSA-Grind/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
@@ -500,6 +503,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/nipuna1902/DSA-Grind/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window

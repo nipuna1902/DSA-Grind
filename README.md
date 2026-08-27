@@ -193,6 +193,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0994-rotting-oranges](https://github.com/nipuna1902/DSA-Grind/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -647,11 +649,13 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nipuna1902/DSA-Grind/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
 | ------- |

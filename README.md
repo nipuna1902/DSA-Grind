@@ -162,6 +162,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nipuna1902/DSA-Grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipuna1902/DSA-Grind/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/nipuna1902/DSA-Grind/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -193,6 +194,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipuna1902/DSA-Grind/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
@@ -252,6 +254,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nipuna1902/DSA-Grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipuna1902/DSA-Grind/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/nipuna1902/DSA-Grind/tree/master/2236-root-equals-sum-of-children) |
 ## String

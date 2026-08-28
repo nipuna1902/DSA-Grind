@@ -48,6 +48,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
@@ -107,6 +108,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/nipuna1902/DSA-Grind/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/nipuna1902/DSA-Grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nipuna1902/DSA-Grind/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nipuna1902/DSA-Grind/tree/master/0994-rotting-oranges) |
@@ -206,6 +208,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/nipuna1902/DSA-Grind/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -435,6 +438,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0338-counting-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |

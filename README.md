@@ -79,6 +79,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nipuna1902/DSA-Grind/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/nipuna1902/DSA-Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
@@ -459,6 +460,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/nipuna1902/DSA-Grind/tree/master/1323-maximum-69-number) |
 | [1405-longest-happy-string](https://github.com/nipuna1902/DSA-Grind/tree/master/1405-longest-happy-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

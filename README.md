@@ -354,6 +354,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0043-multiply-strings](https://github.com/nipuna1902/DSA-Grind/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/nipuna1902/DSA-Grind/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
@@ -444,6 +445,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
@@ -614,6 +616,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |

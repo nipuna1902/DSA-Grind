@@ -77,6 +77,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nipuna1902/DSA-Grind/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nipuna1902/DSA-Grind/tree/master/2073-time-needed-to-buy-tickets) |
@@ -119,6 +120,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nipuna1902/DSA-Grind/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
@@ -231,6 +233,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1091-shortest-path-in-binary-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nipuna1902/DSA-Grind/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |

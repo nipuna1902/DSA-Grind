@@ -61,6 +61,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0733-flood-fill](https://github.com/nipuna1902/DSA-Grind/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nipuna1902/DSA-Grind/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/nipuna1902/DSA-Grind/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/nipuna1902/DSA-Grind/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nipuna1902/DSA-Grind/tree/master/0881-boats-to-save-people) |
@@ -226,6 +227,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nipuna1902/DSA-Grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nipuna1902/DSA-Grind/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
@@ -285,6 +287,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -332,6 +335,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/nipuna1902/DSA-Grind/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/nipuna1902/DSA-Grind/tree/master/0904-fruit-into-baskets) |
@@ -743,4 +747,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/nipuna1902/DSA-Grind/tree/master/0881-boats-to-save-people) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->

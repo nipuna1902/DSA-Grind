@@ -33,6 +33,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
@@ -110,6 +111,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -184,6 +186,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -215,6 +218,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
@@ -677,6 +681,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nipuna1902/DSA-Grind/tree/master/0695-max-area-of-island) |

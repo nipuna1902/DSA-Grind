@@ -170,6 +170,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0701-insert-into-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipuna1902/DSA-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nipuna1902/DSA-Grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -234,6 +235,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nipuna1902/DSA-Grind/tree/master/0994-rotting-oranges) |
@@ -270,6 +272,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0701-insert-into-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipuna1902/DSA-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nipuna1902/DSA-Grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |

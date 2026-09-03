@@ -157,6 +157,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/nipuna1902/DSA-Grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
@@ -192,6 +193,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/nipuna1902/DSA-Grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/nipuna1902/DSA-Grind/tree/master/0463-island-perimeter) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
@@ -259,6 +261,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/nipuna1902/DSA-Grind/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
@@ -291,6 +294,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/nipuna1902/DSA-Grind/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
@@ -320,6 +324,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0078-subsets](https://github.com/nipuna1902/DSA-Grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/nipuna1902/DSA-Grind/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 ## Hash Table
 |  |

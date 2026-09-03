@@ -27,7 +27,6 @@ public:
         dfs(node->right,p);
     }
     vector<string> binaryTreePaths(TreeNode* root) {
-        paths.clear();
         if(root==NULL)
         return paths;
         dfs(root,"");

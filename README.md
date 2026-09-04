@@ -108,6 +108,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [3731-find-missing-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/nipuna1902/DSA-Grind/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -560,6 +561,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3903-smallest-stable-index-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |

@@ -231,6 +231,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0199-binary-tree-right-side-view](https://github.com/nipuna1902/DSA-Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/nipuna1902/DSA-Grind/tree/master/0404-sum-of-left-leaves) |
+| [0433-minimum-genetic-mutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/nipuna1902/DSA-Grind/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/nipuna1902/DSA-Grind/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nipuna1902/DSA-Grind/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -302,6 +303,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/nipuna1902/DSA-Grind/tree/master/0257-binary-tree-paths) |
+| [0433-minimum-genetic-mutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
@@ -345,6 +347,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0433-minimum-genetic-mutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
@@ -775,5 +778,6 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Bidirectional Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->

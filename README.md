@@ -81,6 +81,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nipuna1902/DSA-Grind/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -567,6 +568,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3903-smallest-stable-index-i) |
@@ -652,6 +654,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
+| [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |

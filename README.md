@@ -729,6 +729,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/nipuna1902/DSA-Grind/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nipuna1902/DSA-Grind/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/nipuna1902/DSA-Grind/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/nipuna1902/DSA-Grind/tree/master/0595-big-countries) |

@@ -148,6 +148,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/nipuna1902/DSA-Grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/nipuna1902/DSA-Grind/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
@@ -329,6 +330,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [3499-maximize-active-section-with-trade-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nipuna1902/DSA-Grind/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/nipuna1902/DSA-Grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -557,6 +559,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/nipuna1902/DSA-Grind/tree/master/0881-boats-to-save-people) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/nipuna1902/DSA-Grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |

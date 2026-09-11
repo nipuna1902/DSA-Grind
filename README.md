@@ -427,6 +427,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
@@ -590,6 +591,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0092-reverse-linked-list-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/nipuna1902/DSA-Grind/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nipuna1902/DSA-Grind/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |

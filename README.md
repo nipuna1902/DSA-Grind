@@ -92,6 +92,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [2381-shifting-letters-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/2381-shifting-letters-ii) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nipuna1902/DSA-Grind/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -381,6 +382,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

@@ -94,6 +94,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2381-shifting-letters-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/2381-shifting-letters-ii) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nipuna1902/DSA-Grind/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -517,6 +518,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1710-maximum-units-on-a-truck](https://github.com/nipuna1902/DSA-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
@@ -546,6 +548,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/nipuna1902/DSA-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -583,6 +586,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/2381-shifting-letters-ii) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3903-smallest-stable-index-i) |

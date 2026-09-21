@@ -49,6 +49,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/nipuna1902/DSA-Grind/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
@@ -371,6 +372,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0451-sort-characters-by-frequency](https://github.com/nipuna1902/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0508-most-frequent-subtree-sum) |
+| [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
@@ -414,6 +416,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -582,6 +585,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
@@ -826,4 +830,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nipuna1902/DSA-Grind/tree/master/0207-course-schedule) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

@@ -82,6 +82,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/nipuna1902/DSA-Grind/tree/master/1590-make-sum-divisible-by-p) |
 | [1710-maximum-units-on-a-truck](https://github.com/nipuna1902/DSA-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nipuna1902/DSA-Grind/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -385,6 +386,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1590-make-sum-divisible-by-p](https://github.com/nipuna1902/DSA-Grind/tree/master/1590-make-sum-divisible-by-p) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -592,6 +594,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/nipuna1902/DSA-Grind/tree/master/1590-make-sum-divisible-by-p) |
 | [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/2381-shifting-letters-ii) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |

@@ -314,6 +314,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0012-integer-to-roman](https://github.com/nipuna1902/DSA-Grind/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/nipuna1902/DSA-Grind/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nipuna1902/DSA-Grind/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/nipuna1902/DSA-Grind/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nipuna1902/DSA-Grind/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
@@ -347,6 +348,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nipuna1902/DSA-Grind/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nipuna1902/DSA-Grind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/nipuna1902/DSA-Grind/tree/master/0077-combinations) |
@@ -503,6 +505,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nipuna1902/DSA-Grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
@@ -837,4 +840,8 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nipuna1902/DSA-Grind/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

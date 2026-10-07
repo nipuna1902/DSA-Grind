@@ -33,6 +33,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0079-word-search](https://github.com/nipuna1902/DSA-Grind/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
@@ -510,6 +511,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0070-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
+| [0119-pascals-triangle-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |

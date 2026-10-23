@@ -37,6 +37,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0119-pascals-triangle-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/nipuna1902/DSA-Grind/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
@@ -457,6 +458,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0035-search-insert-position](https://github.com/nipuna1902/DSA-Grind/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/nipuna1902/DSA-Grind/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |

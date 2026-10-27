@@ -231,6 +231,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nipuna1902/DSA-Grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nipuna1902/DSA-Grind/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
@@ -264,6 +265,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nipuna1902/DSA-Grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nipuna1902/DSA-Grind/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
@@ -771,6 +773,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0207-course-schedule](https://github.com/nipuna1902/DSA-Grind/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
@@ -811,6 +814,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipuna1902/DSA-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -857,4 +861,12 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nipuna1902/DSA-Grind/tree/master/0022-generate-parentheses) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

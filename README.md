@@ -86,6 +86,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 | [1590-make-sum-divisible-by-p](https://github.com/nipuna1902/DSA-Grind/tree/master/1590-make-sum-divisible-by-p) |
 | [1710-maximum-units-on-a-truck](https://github.com/nipuna1902/DSA-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
@@ -775,6 +776,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
@@ -819,6 +821,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1405-longest-happy-string](https://github.com/nipuna1902/DSA-Grind/tree/master/1405-longest-happy-string) |
+| [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 | [1845-seat-reservation-manager](https://github.com/nipuna1902/DSA-Grind/tree/master/1845-seat-reservation-manager) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nipuna1902/DSA-Grind/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
@@ -865,8 +868,10 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->

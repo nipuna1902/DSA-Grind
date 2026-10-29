@@ -103,6 +103,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nipuna1902/DSA-Grind/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nipuna1902/DSA-Grind/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2761-prime-pairs-with-target-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2761-prime-pairs-with-target-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -402,6 +403,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1590-make-sum-divisible-by-p](https://github.com/nipuna1902/DSA-Grind/tree/master/1590-make-sum-divisible-by-p) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nipuna1902/DSA-Grind/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

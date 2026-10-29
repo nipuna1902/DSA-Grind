@@ -341,6 +341,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/nipuna1902/DSA-Grind/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/nipuna1902/DSA-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/nipuna1902/DSA-Grind/tree/master/1405-longest-happy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipuna1902/DSA-Grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -397,6 +398,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0846-hand-of-straights](https://github.com/nipuna1902/DSA-Grind/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/nipuna1902/DSA-Grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0930-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/nipuna1902/DSA-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nipuna1902/DSA-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -704,6 +706,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0621-task-scheduler](https://github.com/nipuna1902/DSA-Grind/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/nipuna1902/DSA-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

@@ -236,6 +236,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0733-flood-fill](https://github.com/nipuna1902/DSA-Grind/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0993-cousins-in-binary-tree) |
@@ -271,6 +272,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nipuna1902/DSA-Grind/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/0965-univalued-binary-tree) |
@@ -536,6 +538,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -784,6 +787,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0207-course-schedule](https://github.com/nipuna1902/DSA-Grind/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nipuna1902/DSA-Grind/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
@@ -827,6 +831,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipuna1902/DSA-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/nipuna1902/DSA-Grind/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1405-longest-happy-string](https://github.com/nipuna1902/DSA-Grind/tree/master/1405-longest-happy-string) |
@@ -877,6 +882,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |

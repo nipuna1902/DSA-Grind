@@ -542,6 +542,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -791,6 +792,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/nipuna1902/DSA-Grind/tree/master/0841-keys-and-rooms) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
@@ -885,14 +887,24 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nipuna1902/DSA-Grind/tree/master/0743-network-delay-time) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/nipuna1902/DSA-Grind/tree/master/0456-132-pattern) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->

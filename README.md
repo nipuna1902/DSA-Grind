@@ -85,6 +85,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nipuna1902/DSA-Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/nipuna1902/DSA-Grind/tree/master/1514-path-with-maximum-probability) |
@@ -485,6 +486,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0713-subarray-product-less-than-k](https://github.com/nipuna1902/DSA-Grind/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/nipuna1902/DSA-Grind/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
@@ -585,6 +587,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0881-boats-to-save-people](https://github.com/nipuna1902/DSA-Grind/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/nipuna1902/DSA-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -611,6 +614,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/nipuna1902/DSA-Grind/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipuna1902/DSA-Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nipuna1902/DSA-Grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |

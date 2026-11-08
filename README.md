@@ -83,6 +83,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1248-count-number-of-nice-subarrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/nipuna1902/DSA-Grind/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -149,6 +150,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1091-shortest-path-in-binary-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nipuna1902/DSA-Grind/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/nipuna1902/DSA-Grind/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nipuna1902/DSA-Grind/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -246,6 +248,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1020-number-of-enclaves](https://github.com/nipuna1902/DSA-Grind/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipuna1902/DSA-Grind/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nipuna1902/DSA-Grind/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -284,6 +287,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1020-number-of-enclaves](https://github.com/nipuna1902/DSA-Grind/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nipuna1902/DSA-Grind/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/1302-deepest-leaves-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nipuna1902/DSA-Grind/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
@@ -722,6 +726,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0692-top-k-frequent-words](https://github.com/nipuna1902/DSA-Grind/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/nipuna1902/DSA-Grind/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/nipuna1902/DSA-Grind/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/nipuna1902/DSA-Grind/tree/master/1267-count-servers-that-communicate) |
 | [1854-maximum-population-year](https://github.com/nipuna1902/DSA-Grind/tree/master/1854-maximum-population-year) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -786,6 +791,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0695-max-area-of-island](https://github.com/nipuna1902/DSA-Grind/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/nipuna1902/DSA-Grind/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nipuna1902/DSA-Grind/tree/master/1267-count-servers-that-communicate) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nipuna1902/DSA-Grind/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipuna1902/DSA-Grind/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |

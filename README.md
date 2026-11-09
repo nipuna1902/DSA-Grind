@@ -103,6 +103,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2104-sum-of-subarray-ranges](https://github.com/nipuna1902/DSA-Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nipuna1902/DSA-Grind/tree/master/2206-divide-array-into-equal-pairs) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nipuna1902/DSA-Grind/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2381-shifting-letters-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/2381-shifting-letters-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/nipuna1902/DSA-Grind/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -597,6 +598,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nipuna1902/DSA-Grind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/nipuna1902/DSA-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/nipuna1902/DSA-Grind/tree/master/2126-destroying-asteroids) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/nipuna1902/DSA-Grind/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

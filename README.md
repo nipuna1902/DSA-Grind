@@ -445,6 +445,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/nipuna1902/DSA-Grind/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
@@ -781,6 +782,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nipuna1902/DSA-Grind/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 ## Queue
 |  |
@@ -946,4 +948,20 @@ I created this repo to **track my learning, store solutions, and stay consistent
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nipuna1902/DSA-Grind/tree/master/0164-maximum-gap) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nipuna1902/DSA-Grind/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nipuna1902/DSA-Grind/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nipuna1902/DSA-Grind/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nipuna1902/DSA-Grind/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

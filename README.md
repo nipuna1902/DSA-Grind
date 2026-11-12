@@ -69,6 +69,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0733-flood-fill](https://github.com/nipuna1902/DSA-Grind/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nipuna1902/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nipuna1902/DSA-Grind/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/nipuna1902/DSA-Grind/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/nipuna1902/DSA-Grind/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/nipuna1902/DSA-Grind/tree/master/0875-koko-eating-bananas) |
@@ -550,6 +551,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nipuna1902/DSA-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/nipuna1902/DSA-Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nipuna1902/DSA-Grind/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

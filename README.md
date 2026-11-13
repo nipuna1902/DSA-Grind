@@ -39,6 +39,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nipuna1902/DSA-Grind/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/nipuna1902/DSA-Grind/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/nipuna1902/DSA-Grind/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/nipuna1902/DSA-Grind/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
@@ -547,6 +548,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/nipuna1902/DSA-Grind/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/nipuna1902/DSA-Grind/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |

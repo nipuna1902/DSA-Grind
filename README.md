@@ -123,6 +123,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/nipuna1902/DSA-Grind/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nipuna1902/DSA-Grind/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nipuna1902/DSA-Grind/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nipuna1902/DSA-Grind/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -648,6 +649,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2381-shifting-letters-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/2381-shifting-letters-ii) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nipuna1902/DSA-Grind/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nipuna1902/DSA-Grind/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nipuna1902/DSA-Grind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/3904-smallest-stable-index-ii) |
@@ -685,6 +687,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nipuna1902/DSA-Grind/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nipuna1902/DSA-Grind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipuna1902/DSA-Grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nipuna1902/DSA-Grind/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |

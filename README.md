@@ -452,6 +452,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0258-add-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/nipuna1902/DSA-Grind/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/nipuna1902/DSA-Grind/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0523-continuous-subarray-sum) |
@@ -481,6 +482,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/nipuna1902/DSA-Grind/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/nipuna1902/DSA-Grind/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/nipuna1902/DSA-Grind/tree/master/1922-count-good-numbers) |

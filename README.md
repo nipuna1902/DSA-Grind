@@ -27,6 +27,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0046-permutations](https://github.com/nipuna1902/DSA-Grind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nipuna1902/DSA-Grind/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nipuna1902/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nipuna1902/DSA-Grind/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nipuna1902/DSA-Grind/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/nipuna1902/DSA-Grind/tree/master/0066-plus-one) |
@@ -509,6 +510,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nipuna1902/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nipuna1902/DSA-Grind/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0215-kth-largest-element-in-an-array) |
@@ -550,6 +552,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | ------- |
 | [0022-generate-parentheses](https://github.com/nipuna1902/DSA-Grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nipuna1902/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |

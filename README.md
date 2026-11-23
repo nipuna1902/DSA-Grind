@@ -37,6 +37,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/nipuna1902/DSA-Grind/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nipuna1902/DSA-Grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nipuna1902/DSA-Grind/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nipuna1902/DSA-Grind/tree/master/0162-find-peak-element) |
@@ -450,6 +451,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0067-add-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nipuna1902/DSA-Grind/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/nipuna1902/DSA-Grind/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nipuna1902/DSA-Grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/nipuna1902/DSA-Grind/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nipuna1902/DSA-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nipuna1902/DSA-Grind/tree/master/0231-power-of-two) |
@@ -525,6 +527,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0042-trapping-rain-water](https://github.com/nipuna1902/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nipuna1902/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/nipuna1902/DSA-Grind/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nipuna1902/DSA-Grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/nipuna1902/DSA-Grind/tree/master/0173-binary-search-tree-iterator) |
 | [0456-132-pattern](https://github.com/nipuna1902/DSA-Grind/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/nipuna1902/DSA-Grind/tree/master/0496-next-greater-element-i) |

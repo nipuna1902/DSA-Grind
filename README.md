@@ -50,6 +50,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0219-contains-duplicate-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nipuna1902/DSA-Grind/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nipuna1902/DSA-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nipuna1902/DSA-Grind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -502,6 +503,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [0162-find-peak-element](https://github.com/nipuna1902/DSA-Grind/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nipuna1902/DSA-Grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/nipuna1902/DSA-Grind/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nipuna1902/DSA-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/nipuna1902/DSA-Grind/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/0532-k-diff-pairs-in-an-array) |

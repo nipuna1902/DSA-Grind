@@ -179,6 +179,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nipuna1902/DSA-Grind/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/nipuna1902/DSA-Grind/tree/master/3360-stone-removal-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/nipuna1902/DSA-Grind/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/nipuna1902/DSA-Grind/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nipuna1902/DSA-Grind/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -476,6 +477,7 @@ I created this repo to **track my learning, store solutions, and stay consistent
 | [3280-convert-date-to-binary](https://github.com/nipuna1902/DSA-Grind/tree/master/3280-convert-date-to-binary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nipuna1902/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nipuna1902/DSA-Grind/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/nipuna1902/DSA-Grind/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/nipuna1902/DSA-Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nipuna1902/DSA-Grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nipuna1902/DSA-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
